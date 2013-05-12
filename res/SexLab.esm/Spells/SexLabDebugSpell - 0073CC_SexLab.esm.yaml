@@ -1,0 +1,21 @@
+FormKey: 0073CC:SexLab.esm
+EditorID: SexLabDebugSpell
+FormVersion: 43
+Name:
+  TargetLanguage: English
+  Value: Sex Lab Debug
+MenuDisplayObject: 10AB43:Skyrim.esm
+EquipmentType: 013F44:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Flags:
+- PCStartSpell
+- IgnoreResistance
+- NoAbsorbOrReflect
+- NoDualCastModification
+CastType: FireAndForget
+TargetType: Aimed
+Effects:
+- BaseEffect: 0073CB:SexLab.esm
+  Data: {}

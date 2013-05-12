@@ -1,0 +1,10 @@
+FormKey: 0285AF:SexLab.esm
+EditorID: Arrok_Lesbian_A2_S3
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Arrok_Lesbian_A2_S3
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent

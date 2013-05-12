@@ -1,0 +1,11 @@
+FormKey: 01EE96:SexLab.esm
+EditorID: AP_LegUp_A2_S2
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AP_LegUp_A2_S2
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

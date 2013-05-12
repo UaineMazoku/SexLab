@@ -1,0 +1,20 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Skyrim
+  Version: 0.40
+ModKey: SexLab.esm
+GameRelease: SkyrimSE
+ModHeader:
+  Flags:
+  - Master
+  FormVersion: 43
+  Stats:
+    Version: 1.7
+  Author: Ashal
+  Description: >-
+    Rev 4, 05/11/2013
+
+    LoversLab.com
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  INTV: 1

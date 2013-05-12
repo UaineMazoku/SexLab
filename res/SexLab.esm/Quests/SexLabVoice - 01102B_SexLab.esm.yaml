@@ -1,0 +1,221 @@
+FormKey: 01102B:SexLab.esm
+EditorID: SexLabVoice
+FormVersion: 43
+VirtualMachineAdapter:
+  Scripts:
+  - Name: sslBaseVoice
+  - Name: sslvoicefemalemoan01
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 011596:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 011597:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 011595:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslvoicefemalemoan02
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 011599:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 01159A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 011598:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan03
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C8C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C8D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C8B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan04
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C90:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C8F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C8E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan05
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C91:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C91:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C92:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan06
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C94:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan07
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C97:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C96:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C95:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan08
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C98:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C98:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C99:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceFemaleMoan09
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 018C9C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 018C9B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 018C9A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  - Name: sslVoiceMaleMoan01
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: hot
+      Object: 01308A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: medium
+      Object: 01308C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mild
+      Object: 01308B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanHot
+      Object: 017C4A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMedium
+      Object: 017C4B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MoanMild
+      Object: 016C14:SexLab.esm
+  Versioning:
+  - Break0
+  ExtraBindDataVersion: 0
+  FileName: ''
+Name:
+  TargetLanguage: English
+  Value: SexLab Voice Registry
+Flags:
+- StartGameEnabled
+- 0x10
+- RunOnce
+Priority: 90
+QuestFormVersion: 76
+Filter: SexLab\
+NextAliasID: 0

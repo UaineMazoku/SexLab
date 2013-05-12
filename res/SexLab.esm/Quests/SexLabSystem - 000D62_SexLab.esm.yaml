@@ -1,0 +1,566 @@
+FormKey: 000D62:SexLab.esm
+EditorID: SexLabSystem
+FormVersion: 43
+VirtualMachineAdapter:
+  Scripts:
+  - Name: SexLabFramework
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: AnimatingFaction
+      Object: 00E50F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: config
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DATA
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing00
+      Object: 000D62:SexLab.esm
+      Alias: 53
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing01
+      Object: 000D62:SexLab.esm
+      Alias: 54
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing02
+      Object: 000D62:SexLab.esm
+      Alias: 56
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing03
+      Object: 000D62:SexLab.esm
+      Alias: 57
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing04
+      Object: 000D62:SexLab.esm
+      Alias: 58
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing05
+      Object: 000D62:SexLab.esm
+      Alias: 59
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing06
+      Object: 000D62:SexLab.esm
+      Alias: 60
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing07
+      Object: 000D62:SexLab.esm
+      Alias: 61
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing08
+      Object: 000D62:SexLab.esm
+      Alias: 62
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing09
+      Object: 000D62:SexLab.esm
+      Alias: 63
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing10
+      Object: 000D62:SexLab.esm
+      Alias: 64
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing11
+      Object: 000D62:SexLab.esm
+      Alias: 65
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing12
+      Object: 000D62:SexLab.esm
+      Alias: 66
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing13
+      Object: 000D62:SexLab.esm
+      Alias: 67
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DoNothing14
+      Object: 000D62:SexLab.esm
+      Alias: 68
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread00
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread01
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread02
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread03
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread04
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread05
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread06
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread07
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread08
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread09
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread10
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread11
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread12
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread13
+      Object: 00792F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Thread14
+      Object: 00792F:SexLab.esm
+  - Name: sslSystemConfig
+    Properties:
+    - MutagenObjectType: ScriptStringProperty
+      Name: ModName
+      Data: SexLab
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslSystemResources
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: aCalypsStrapon
+      Object: 01A22A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: aNudeSuit
+      Object: 018715:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APAnal
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APBedMissionary
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APBlowjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APBoobjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APCowgirl
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APDoggyStyle
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APFaceDown
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APFemaleSolo
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APFisting
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APHandjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APHoldLegUp
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APKneelBlowjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APLegUp
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APShoulder
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APSkullFuck
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APStandBlowjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APStanding
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: APUNKNOWN
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokBlowjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokBoobJob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokCowgirl
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokDevilsThreeway
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokDoggyStyle
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokForeplay
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokHugFuck
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokLegUp
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokLesbian
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokMaleMasturbation
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokMissionary
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokOral
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokReverseCowgirl
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokSideways
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokSittingForeplay
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokStanding
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokStandingForeplay
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ArrokTricycle
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BedsList
+      Object: 0181B1:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumAnal
+      Object: 0140E8:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumOral
+      Object: 0140E6:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumOralAnal
+      Object: 01464F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumVaginal
+      Object: 01464C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumVaginalAnal
+      Object: 01464E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumVaginalOral
+      Object: 01464D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CumVaginalOralAnal
+      Object: 014650:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan01
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan02
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan03
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan04
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan05
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan06
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan07
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan08
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: femalemoan09
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LocationMarker
+      Object: 02803E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mAdjustChange
+      Object: 017C49:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: malemoan01
+      Object: 01102B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mCleanSystemFinish
+      Object: 020439:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mCleanSystemStart
+      Object: 02043C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mDirtyUpgrade
+      Object: 02043A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mNoSKSE
+      Object: 014BB5:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mOldSKSE
+      Object: 014BB3:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mOldSkyrim
+      Object: 014BB4:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mSystemDisabled
+      Object: 02043B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mUseBed
+      Object: 0181B2:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabAggrBehind
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabAggrDoggyStyle
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabAggrMissonary
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabBoobjob
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabDebugSpell
+      Object: 0073CC:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabDoggyStyle
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabHuggingSex
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabMissonary
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabReverseCowgirl
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabSideways
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabStanding
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabTribadism
+      Object: 0022EB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSquishing01
+      Object: 010566:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSucking01
+      Object: 013B82:SexLab.esm
+  FileName: ''
+  Aliases:
+  - Property:
+      Name: ''
+      Object: 000D62:SexLab.esm
+      Alias: 0
+    Scripts:
+    - Name: SKI_PlayerLoadGameAlias
+  - Property:
+      Name: ''
+      Object: 000D62:SexLab.esm
+      Alias: 20
+    Scripts:
+    - Name: sslSystemAlias
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: SexLab
+        Object: 000D62:SexLab.esm
+Name:
+  TargetLanguage: English
+  Value: SexLab Primary System
+Flags:
+- StartGameEnabled
+- 0x10
+- RunOnce
+Priority: 95
+QuestFormVersion: 76
+Filter: SexLab\
+NextAliasID: 72
+Aliases:
+- Name: PlayerAlias
+  Flags: []
+  ForcedReference: 000014:Skyrim.esm
+  VoiceTypes: Null
+- ID: 20
+  Name: SystemCheck
+  Flags: []
+  ForcedReference: 000014:Skyrim.esm
+  VoiceTypes: Null
+- ID: 68
+  Name: DoNothing014
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 67
+  Name: DoNothing013
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 66
+  Name: DoNothing012
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 65
+  Name: DoNothing011
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 64
+  Name: DoNothing010
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 63
+  Name: DoNothing009
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 62
+  Name: DoNothing008
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 61
+  Name: DoNothing007
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 60
+  Name: DoNothing006
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 59
+  Name: DoNothing005
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 58
+  Name: DoNothing004
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 57
+  Name: DoNothing003
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 56
+  Name: DoNothing002
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 54
+  Name: DoNothing001
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null
+- ID: 53
+  Name: DoNothing000
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  Keywords:
+  - 012B24:SexLab.esm
+  PackageData:
+  - 00E50E:SexLab.esm
+  VoiceTypes: Null

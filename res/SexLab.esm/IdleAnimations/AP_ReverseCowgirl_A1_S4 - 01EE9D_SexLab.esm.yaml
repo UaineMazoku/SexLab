@@ -1,0 +1,11 @@
+FormKey: 01EE9D:SexLab.esm
+EditorID: AP_ReverseCowgirl_A1_S4
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AP_ReverseCowgirl_A1_S4
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

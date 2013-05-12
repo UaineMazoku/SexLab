@@ -1,0 +1,12 @@
+FormKey: 017C49:SexLab.esm
+EditorID: SexLabAdjustChange
+FormVersion: 43
+Description:
+  TargetLanguage: English
+  Value: Adjusting the character in position %.0f
+Name:
+  TargetLanguage: English
+  Value: Adjusting Position
+INAM: 0x00000000
+Quest: 000D62:SexLab.esm
+DisplayTime: 3

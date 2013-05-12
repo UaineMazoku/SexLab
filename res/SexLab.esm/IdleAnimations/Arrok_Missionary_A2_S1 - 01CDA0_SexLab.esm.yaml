@@ -1,0 +1,11 @@
+FormKey: 01CDA0:SexLab.esm
+EditorID: Arrok_Missionary_A2_S1
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Arrok_Missionary_A2_S1
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

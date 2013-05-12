@@ -1,0 +1,11 @@
+FormKey: 01D34E:SexLab.esm
+EditorID: Arrok_LegUp_A1_S1
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Arrok_LegUp_A1_S1
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

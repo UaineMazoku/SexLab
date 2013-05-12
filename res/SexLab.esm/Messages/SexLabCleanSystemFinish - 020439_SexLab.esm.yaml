@@ -1,0 +1,17 @@
+FormKey: 020439:SexLab.esm
+EditorID: SexLabCleanSystemFinish
+FormVersion: 43
+Description:
+  TargetLanguage: English
+  Value: >-
+    The SexLab system has been cleaned up and disabled, you should now save your game before continuing.
+
+
+    After saving your game in this state, it is safe to upgrade, uninstall, or reload the system in subsequent save loads.
+Name:
+  TargetLanguage: English
+  Value: SexLab Cleaned/Disabled
+INAM: 0x00000000
+Quest: 000D62:SexLab.esm
+Flags:
+- MessageBox

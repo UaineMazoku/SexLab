@@ -1,0 +1,11 @@
+FormKey: 01BD31:SexLab.esm
+EditorID: AggrBehind_A2_S3
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AggrBehind_A2_S3
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

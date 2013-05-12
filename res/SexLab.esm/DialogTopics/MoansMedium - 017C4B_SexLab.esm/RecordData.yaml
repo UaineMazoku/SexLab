@@ -1,0 +1,11 @@
+FormKey: 017C4B:SexLab.esm
+EditorID: MoansMedium
+FormVersion: 43
+Name:
+  TargetLanguage: English
+  Value: MoansMedium
+Quest: 01102B:SexLab.esm
+Category: Misc
+Subtype: LeaveWaterBreath
+SubtypeName: LWBS
+Unknown: 5288

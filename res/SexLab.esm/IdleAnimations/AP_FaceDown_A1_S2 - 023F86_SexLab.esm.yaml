@@ -1,0 +1,10 @@
+FormKey: 023F86:SexLab.esm
+EditorID: AP_FaceDown_A1_S2
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AP_FaceDown_A1_S2
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent

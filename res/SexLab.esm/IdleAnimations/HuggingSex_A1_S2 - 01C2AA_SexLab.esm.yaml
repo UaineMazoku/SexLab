@@ -1,0 +1,11 @@
+FormKey: 01C2AA:SexLab.esm
+EditorID: HuggingSex_A1_S2
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: HuggingSex_A1_S2
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

@@ -1,0 +1,11 @@
+FormKey: 01CD99:SexLab.esm
+EditorID: Arrok_DoggyStyle_A2_S4
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Arrok_DoggyStyle_A2_S4
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

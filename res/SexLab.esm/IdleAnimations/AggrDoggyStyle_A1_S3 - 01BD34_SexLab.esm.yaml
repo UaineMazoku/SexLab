@@ -1,0 +1,11 @@
+FormKey: 01BD34:SexLab.esm
+EditorID: AggrDoggyStyle_A1_S3
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AggrDoggyStyle_A1_S3
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108

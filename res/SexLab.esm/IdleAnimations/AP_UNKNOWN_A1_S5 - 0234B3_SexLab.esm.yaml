@@ -1,0 +1,10 @@
+FormKey: 0234B3:SexLab.esm
+EditorID: AP_UNKNOWN_A1_S5
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: AP_Scene16_A1_S5
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent

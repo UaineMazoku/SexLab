@@ -1,0 +1,10 @@
+FormKey: 025FED:SexLab.esm
+EditorID: Arrok_Tricycle_A3_S2
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Arrok_Tricycle_A3_S2
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent

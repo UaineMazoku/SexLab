@@ -1,0 +1,11 @@
+FormKey: 01C2C5:SexLab.esm
+EditorID: Sideways_A2_S4
+FormVersion: 43
+Filename: Actors\Character\Behaviors\0_Master.hkx
+AnimationEvent: Sideways_A2_S4
+RelatedIdles:
+- Null
+- Null
+Flags:
+- Parent
+AnimationGroupSection: 108
