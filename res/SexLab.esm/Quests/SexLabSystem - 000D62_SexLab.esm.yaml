@@ -137,6 +137,36 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: ThreadView04
       Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView05
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView06
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView07
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView08
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView09
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView10
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView11
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView12
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView13
+      Object: 030196:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView14
+      Object: 030196:SexLab.esm
   - Name: sslSystemConfig
     Properties:
     - MutagenObjectType: ScriptStringProperty
@@ -400,6 +430,9 @@ VirtualMachineAdapter:
       Name: SexLabTribadism
       Object: 0022EB:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSexMix01
+      Object: 0306FA:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: sfxSquishing01
       Object: 010566:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -420,7 +453,7 @@ Flags:
 - StartGameEnabled
 - 0x10
 - RunOnce
-Priority: 95
+Priority: 90
 QuestFormVersion: 45
 Filter: SexLab\
 NextAliasID: 81

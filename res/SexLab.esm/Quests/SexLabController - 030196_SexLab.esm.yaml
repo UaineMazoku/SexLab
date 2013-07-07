@@ -1,5 +1,4 @@
 FormKey: 030196:SexLab.esm
-VersionControl: 32517
 EditorID: SexLabController
 FormVersion: 43
 VirtualMachineAdapter:
@@ -39,6 +38,56 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: SexLab
       Object: 000D62:SexLab.esm
+  - Name: sslthreadview05
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview06
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview07
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview08
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview09
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview10
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview11
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview12
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview13
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
+  - Name: sslthreadview14
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
   Versioning:
   - Break0
   ExtraBindDataVersion: 0
@@ -48,6 +97,7 @@ Name:
   Value: SexLab Controller
 Flags:
 - StartGameEnabled
+- 0x10
 Priority: 99
-QuestFormVersion: 45
+QuestFormVersion: 0
 NextAliasID: 0
