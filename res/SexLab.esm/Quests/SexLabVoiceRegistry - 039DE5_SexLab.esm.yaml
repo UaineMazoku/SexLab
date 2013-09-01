@@ -1,0 +1,1160 @@
+FormKey: 039DE5:SexLab.esm
+EditorID: SexLabVoiceRegistry
+FormVersion: 43
+VirtualMachineAdapter:
+  Scripts:
+  - Name: sslVoiceDefaults
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Registry
+      Object: 039DE5:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale01HotM
+      Object: 011596:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale01MediumM
+      Object: 011597:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale01MildM
+      Object: 011595:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale02HotM
+      Object: 011599:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale02MediumM
+      Object: 01159A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale02MildM
+      Object: 011598:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale03HotM
+      Object: 018C8C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale03MediumM
+      Object: 018C8D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale03MildM
+      Object: 018C8B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale04HotM
+      Object: 018C90:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale04MediumM
+      Object: 018C8F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale04MildM
+      Object: 018C8E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale05HotM
+      Object: 018C91:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale05MediumM
+      Object: 018C91:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale05MildM
+      Object: 018C92:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale06HotM
+      Object: 018C93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale06MediumM
+      Object: 018C93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale06MildM
+      Object: 018C94:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale07HotM
+      Object: 018C97:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale07MediumM
+      Object: 018C96:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale07MildM
+      Object: 018C95:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale08HotM
+      Object: 018C98:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale08MediumM
+      Object: 018C98:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvFemale08MildM
+      Object: 018C99:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale01HotM
+      Object: 01308A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale01MediumM
+      Object: 01308C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale01MildM
+      Object: 01308B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale02HotM
+      Object: 031C8D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale02MediumM
+      Object: 031C8E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale02MildM
+      Object: 031C8F:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale03HotM
+      Object: 031C94:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale03MediumM
+      Object: 031C92:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale03MildM
+      Object: 031C90:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale04HotM
+      Object: 031C95:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale04MediumM
+      Object: 031C93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabvMale04MildM
+      Object: 031C91:SexLab.esm
+  - Name: sslVoiceRegistry
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: config
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: defaults
+      Object: 039DE5:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabMoanHot
+      Object: 03A351:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabMoanMedium
+      Object: 03A34D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabMoanMild
+      Object: 03A34A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceF
+      Object: 02CBBE:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceM
+      Object: 02CBBD:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot000
+      Object: 039DE5:SexLab.esm
+      Alias: 1
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot001
+      Object: 039DE5:SexLab.esm
+      Alias: 2
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot002
+      Object: 039DE5:SexLab.esm
+      Alias: 3
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot003
+      Object: 039DE5:SexLab.esm
+      Alias: 4
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot004
+      Object: 039DE5:SexLab.esm
+      Alias: 5
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot005
+      Object: 039DE5:SexLab.esm
+      Alias: 6
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot006
+      Object: 039DE5:SexLab.esm
+      Alias: 7
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot007
+      Object: 039DE5:SexLab.esm
+      Alias: 8
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot008
+      Object: 039DE5:SexLab.esm
+      Alias: 9
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot009
+      Object: 039DE5:SexLab.esm
+      Alias: 10
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot010
+      Object: 039DE5:SexLab.esm
+      Alias: 11
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot011
+      Object: 039DE5:SexLab.esm
+      Alias: 12
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot012
+      Object: 039DE5:SexLab.esm
+      Alias: 13
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot013
+      Object: 039DE5:SexLab.esm
+      Alias: 14
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot014
+      Object: 039DE5:SexLab.esm
+      Alias: 15
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot015
+      Object: 039DE5:SexLab.esm
+      Alias: 16
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot016
+      Object: 039DE5:SexLab.esm
+      Alias: 17
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot017
+      Object: 039DE5:SexLab.esm
+      Alias: 18
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot018
+      Object: 039DE5:SexLab.esm
+      Alias: 19
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot019
+      Object: 039DE5:SexLab.esm
+      Alias: 20
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot020
+      Object: 039DE5:SexLab.esm
+      Alias: 21
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot021
+      Object: 039DE5:SexLab.esm
+      Alias: 22
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot022
+      Object: 039DE5:SexLab.esm
+      Alias: 23
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot023
+      Object: 039DE5:SexLab.esm
+      Alias: 24
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot024
+      Object: 039DE5:SexLab.esm
+      Alias: 25
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot025
+      Object: 039DE5:SexLab.esm
+      Alias: 26
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot026
+      Object: 039DE5:SexLab.esm
+      Alias: 27
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot027
+      Object: 039DE5:SexLab.esm
+      Alias: 28
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot028
+      Object: 039DE5:SexLab.esm
+      Alias: 29
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot029
+      Object: 039DE5:SexLab.esm
+      Alias: 30
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot030
+      Object: 039DE5:SexLab.esm
+      Alias: 31
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot031
+      Object: 039DE5:SexLab.esm
+      Alias: 32
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot032
+      Object: 039DE5:SexLab.esm
+      Alias: 33
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot033
+      Object: 039DE5:SexLab.esm
+      Alias: 34
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot034
+      Object: 039DE5:SexLab.esm
+      Alias: 35
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot035
+      Object: 039DE5:SexLab.esm
+      Alias: 36
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot036
+      Object: 039DE5:SexLab.esm
+      Alias: 37
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot037
+      Object: 039DE5:SexLab.esm
+      Alias: 38
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot038
+      Object: 039DE5:SexLab.esm
+      Alias: 39
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot039
+      Object: 039DE5:SexLab.esm
+      Alias: 40
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot040
+      Object: 039DE5:SexLab.esm
+      Alias: 41
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot041
+      Object: 039DE5:SexLab.esm
+      Alias: 42
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot042
+      Object: 039DE5:SexLab.esm
+      Alias: 43
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot043
+      Object: 039DE5:SexLab.esm
+      Alias: 44
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot044
+      Object: 039DE5:SexLab.esm
+      Alias: 45
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot045
+      Object: 039DE5:SexLab.esm
+      Alias: 46
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot046
+      Object: 039DE5:SexLab.esm
+      Alias: 47
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot047
+      Object: 039DE5:SexLab.esm
+      Alias: 48
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot048
+      Object: 039DE5:SexLab.esm
+      Alias: 49
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoiceSlot049
+      Object: 039DE5:SexLab.esm
+      Alias: 50
+    - MutagenObjectType: ScriptObjectProperty
+      Name: VoicesPlayer
+      Object: 068ACA:Skyrim.esm
+  FileName: ''
+  Aliases:
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 50
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 49
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 48
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 47
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 46
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 45
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 44
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 43
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 42
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 41
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 40
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 39
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 38
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 37
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 36
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 35
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 34
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 33
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 32
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 31
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 30
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 29
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 28
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 27
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 26
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 25
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 24
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 23
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 22
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 21
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 20
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 19
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 18
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 17
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 16
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 15
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 14
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 13
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 12
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 11
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 10
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 9
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 8
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 7
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 6
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 5
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 4
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 3
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 2
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 039DE5:SexLab.esm
+      Alias: 1
+    Scripts:
+    - Name: sslBaseVoice
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Registry
+        Object: 039DE5:SexLab.esm
+Name:
+  TargetLanguage: English
+  Value: SexLab Voice Regisry
+Flags:
+- StartGameEnabled
+- 0x10
+Priority: 90
+QuestFormVersion: 0
+Filter: SexLab\
+NextAliasID: 51
+Aliases:
+- ID: 50
+  Name: SexLabVoiceSlot049
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 49
+  Name: SexLabVoiceSlot048
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 48
+  Name: SexLabVoiceSlot047
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 47
+  Name: SexLabVoiceSlot046
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 46
+  Name: SexLabVoiceSlot045
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 45
+  Name: SexLabVoiceSlot044
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 44
+  Name: SexLabVoiceSlot043
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 43
+  Name: SexLabVoiceSlot042
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 42
+  Name: SexLabVoiceSlot041
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 41
+  Name: SexLabVoiceSlot040
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 40
+  Name: SexLabVoiceSlot039
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 39
+  Name: SexLabVoiceSlot038
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 38
+  Name: SexLabVoiceSlot037
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 37
+  Name: SexLabVoiceSlot036
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 36
+  Name: SexLabVoiceSlot035
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 35
+  Name: SexLabVoiceSlot034
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 34
+  Name: SexLabVoiceSlot033
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 33
+  Name: SexLabVoiceSlot032
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 32
+  Name: SexLabVoiceSlot031
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 31
+  Name: SexLabVoiceSlot030
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 30
+  Name: SexLabVoiceSlot029
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 29
+  Name: SexLabVoiceSlot028
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 28
+  Name: SexLabVoiceSlot027
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 27
+  Name: SexLabVoiceSlot026
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 26
+  Name: SexLabVoiceSlot025
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 25
+  Name: SexLabVoiceSlot024
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 24
+  Name: SexLabVoiceSlot023
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 23
+  Name: SexLabVoiceSlot022
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 22
+  Name: SexLabVoiceSlot021
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 21
+  Name: SexLabVoiceSlot020
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 20
+  Name: SexLabVoiceSlot019
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 19
+  Name: SexLabVoiceSlot018
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 18
+  Name: SexLabVoiceSlot017
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 17
+  Name: SexLabVoiceSlot016
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 16
+  Name: SexLabVoiceSlot015
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 15
+  Name: SexLabVoiceSlot014
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 14
+  Name: SexLabVoiceSlot013
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 13
+  Name: SexLabVoiceSlot012
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 12
+  Name: SexLabVoiceSlot011
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 11
+  Name: SexLabVoiceSlot010
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 10
+  Name: SexLabVoiceSlot009
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 9
+  Name: SexLabVoiceSlot008
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 8
+  Name: SexLabVoiceSlot007
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 7
+  Name: SexLabVoiceSlot006
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 6
+  Name: SexLabVoiceSlot005
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 5
+  Name: SexLabVoiceSlot004
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 4
+  Name: SexLabVoiceSlot003
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 3
+  Name: SexLabVoiceSlot002
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 2
+  Name: SexLabVoiceSlot001
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null
+- ID: 1
+  Name: SexLabVoiceSlot000
+  Flags:
+  - Optional
+  - AllowReuseInQuest
+  VoiceTypes: Null

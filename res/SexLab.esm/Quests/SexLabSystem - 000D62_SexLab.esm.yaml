@@ -26,6 +26,9 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: ThreadSlots
       Object: 0372C4:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: VoiceRegistry
+      Object: 039DE5:SexLab.esm
   - Name: sslSystemConfig
     Properties:
     - MutagenObjectType: ScriptStringProperty
@@ -70,50 +73,11 @@ VirtualMachineAdapter:
       Name: DummyWeapon
       Object: 0311BF:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan01
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan02
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan03
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan04
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan05
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan06
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan07
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan08
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: femalemoan09
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: LocationMarker
       Object: 02803E:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: mAdjustChange
       Object: 017C49:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: malemoan01
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: malemoan02
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: malemoan03
-      Object: 01102B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: malemoan04
-      Object: 01102B:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: mCleanSystemFinish
       Object: 020439:SexLab.esm

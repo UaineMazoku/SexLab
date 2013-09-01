@@ -1,5 +1,4 @@
 FormKey: 03931F:SexLab.esm
-VersionControl: 32799
 EditorID: SexLabAnimationRegistry
 FormVersion: 43
 VirtualMachineAdapter:
@@ -1021,6 +1020,7 @@ Name:
   Value: SexLab Animation Registry
 Flags:
 - StartGameEnabled
+- 0x10
 Priority: 90
 QuestFormVersion: 44
 Filter: SexLab\
