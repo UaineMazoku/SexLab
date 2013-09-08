@@ -18,7 +18,6 @@ Name:
   TargetLanguage: English
   Value: SexLab Dirty Upgrade
 INAM: 0x00000000
-Quest: 000D62:SexLab.esm
 Flags:
 - MessageBox
 MenuButtons:

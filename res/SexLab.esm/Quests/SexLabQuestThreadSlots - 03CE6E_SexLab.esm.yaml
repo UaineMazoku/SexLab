@@ -1,0 +1,350 @@
+FormKey: 03CE6E:SexLab.esm
+EditorID: SexLabQuestThreadSlots
+FormVersion: 43
+VirtualMachineAdapter:
+  Scripts:
+  - Name: sslThreadLibrary
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Actors
+      Object: 03CE6B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: animations
+      Object: 03CE6C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BedsList
+      Object: 0181B1:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LocationMarker
+      Object: 02803E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mAdjustChange
+      Object: 017C49:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mMoveScene
+      Object: 02907D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: mUseBed
+      Object: 0181B2:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabStager
+      Object: 0357D4:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSexMix01
+      Object: 0306FA:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSquishing01
+      Object: 010566:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: sfxSucking01
+      Object: 013B82:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Voices
+      Object: 03DE97:SexLab.esm
+  - Name: sslThreadSlots
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Lib
+      Object: 03CE6E:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView000
+      Object: 03CE6E:SexLab.esm
+      Alias: 1
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView001
+      Object: 03CE6E:SexLab.esm
+      Alias: 2
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView002
+      Object: 03CE6E:SexLab.esm
+      Alias: 3
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView003
+      Object: 03CE6E:SexLab.esm
+      Alias: 4
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView004
+      Object: 03CE6E:SexLab.esm
+      Alias: 5
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView005
+      Object: 03CE6E:SexLab.esm
+      Alias: 6
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView006
+      Object: 03CE6E:SexLab.esm
+      Alias: 7
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView007
+      Object: 03CE6E:SexLab.esm
+      Alias: 8
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView008
+      Object: 03CE6E:SexLab.esm
+      Alias: 9
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView009
+      Object: 03CE6E:SexLab.esm
+      Alias: 10
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView010
+      Object: 03CE6E:SexLab.esm
+      Alias: 11
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView011
+      Object: 03CE6E:SexLab.esm
+      Alias: 12
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView012
+      Object: 03CE6E:SexLab.esm
+      Alias: 13
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView013
+      Object: 03CE6E:SexLab.esm
+      Alias: 14
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadView014
+      Object: 03CE6E:SexLab.esm
+      Alias: 15
+  FileName: ''
+  Aliases:
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 15
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 14
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 13
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 12
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 11
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 10
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 9
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 8
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 7
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 6
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 5
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 4
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 3
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 2
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+  - Property:
+      Name: ''
+      Object: 03CE6E:SexLab.esm
+      Alias: 1
+    Scripts:
+    - Name: sslThreadController
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Lib
+        Object: 03CE6E:SexLab.esm
+Name:
+  TargetLanguage: English
+  Value: SexLab Thread Slots
+Flags:
+- StartGameEnabled
+- 0x10
+- RunOnce
+Priority: 95
+QuestFormVersion: 44
+Filter: SexLab\
+NextAliasID: 16
+Aliases:
+- ID: 15
+  Name: ThreadView014
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 14
+  Name: ThreadView013
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 13
+  Name: ThreadView012
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 12
+  Name: ThreadView011
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 11
+  Name: ThreadView010
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 10
+  Name: ThreadView009
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 9
+  Name: ThreadView008
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 8
+  Name: ThreadView007
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 7
+  Name: ThreadView006
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 6
+  Name: ThreadView005
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 5
+  Name: ThreadView004
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 4
+  Name: ThreadView003
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 3
+  Name: ThreadView002
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 2
+  Name: ThreadView001
+  Flags:
+  - Optional
+  VoiceTypes: Null
+- ID: 1
+  Name: ThreadView000
+  Flags:
+  - Optional
+  VoiceTypes: Null

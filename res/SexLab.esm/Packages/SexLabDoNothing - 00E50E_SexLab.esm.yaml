@@ -4,6 +4,7 @@ FormVersion: 43
 Flags:
 - MustComplete
 - IgnoreCombat
+- NoCombatAlert
 Type: Package
 ScheduleMonth: -1
 ScheduleDayOfWeek: Any
@@ -16,7 +17,7 @@ Conditions:
     MutagenObjectType: GetInFactionConditionData
     Faction: 00E50F:SexLab.esm
   ComparisonValue: 1
-OwnerQuest: 0372C4:SexLab.esm
+OwnerQuest: 03CE6B:SexLab.esm
 PackageTemplate: 0654E2:Skyrim.esm
 Data:
 - Key: 3

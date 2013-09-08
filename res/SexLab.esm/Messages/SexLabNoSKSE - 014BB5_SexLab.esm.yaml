@@ -15,6 +15,5 @@ Name:
   TargetLanguage: English
   Value: No Skyrim Script Extender
 INAM: 0x00000000
-Quest: 000D62:SexLab.esm
 Flags:
 - MessageBox

@@ -8,7 +8,6 @@ Name:
   TargetLanguage: English
   Value: Use Bed?
 INAM: 0x00000000
-Quest: 000D62:SexLab.esm
 Flags:
 - MessageBox
 MenuButtons:
