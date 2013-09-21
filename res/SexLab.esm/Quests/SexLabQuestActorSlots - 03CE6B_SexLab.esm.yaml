@@ -9,6 +9,12 @@ VirtualMachineAdapter:
       Name: AnimatingFaction
       Object: 00E50F:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: AnimLib
+      Object: 03CE6C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BaseMarker
+      Object: 045A93:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: CumAnalSpell
       Object: 0434D7:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -826,7 +832,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 99
-QuestFormVersion: 0
+QuestFormVersion: 49
 Filter: SexLab\
 NextAliasID: 76
 Aliases:
