@@ -1,16 +1,17 @@
-FormKey: 03F425:SexLab.esm
+FormKey: 04D664:SexLab.esm
+VersionControl: 33308
 FormVersion: 43
 Flags: {}
-PreviousDialog: Null
+PreviousDialog: 03F426:SexLab.esm
 FavorLevel: None
 Responses:
-- Emotion: Fear
-  EmotionValue: 65
+- Emotion: Surprise
+  EmotionValue: 70
   ResponseNumber: 1
-  Unknown2: 0x2C2054
+  Unknown2: 0x657874
   Flags:
   - UseEmotionAnimation
-  Unknown3: 0x566965
+  Unknown3: 0x617263
   Text:
     TargetLanguage: English
     Value: ' '
@@ -18,14 +19,14 @@ Responses:
   Edits: ''
 Conditions:
 - MutagenObjectType: ConditionFloat
-  Unknown2: 13021
+  Unknown2: 5903
   Data:
     MutagenObjectType: GetInFactionConditionData
     Faction: 00E50F:SexLab.esm
   ComparisonValue: 1
 - MutagenObjectType: ConditionFloat
-  Unknown2: 13021
+  Unknown2: 5903
   Data:
     MutagenObjectType: GetIsVoiceTypeConditionData
-    VoiceTypeOrList: 068ACA:Skyrim.esm
+    VoiceTypeOrList: 02CBBC:SexLab.esm
   ComparisonValue: 1

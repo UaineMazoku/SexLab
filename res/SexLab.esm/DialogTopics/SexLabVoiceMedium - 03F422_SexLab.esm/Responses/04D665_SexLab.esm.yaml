@@ -1,7 +1,8 @@
-FormKey: 03F425:SexLab.esm
+FormKey: 04D665:SexLab.esm
+VersionControl: 33308
 FormVersion: 43
 Flags: {}
-PreviousDialog: Null
+PreviousDialog: 03F425:SexLab.esm
 FavorLevel: None
 Responses:
 - Emotion: Fear
@@ -18,14 +19,14 @@ Responses:
   Edits: ''
 Conditions:
 - MutagenObjectType: ConditionFloat
-  Unknown2: 13021
+  Unknown2: 5902
   Data:
     MutagenObjectType: GetInFactionConditionData
     Faction: 00E50F:SexLab.esm
   ComparisonValue: 1
 - MutagenObjectType: ConditionFloat
-  Unknown2: 13021
+  Unknown2: 5902
   Data:
     MutagenObjectType: GetIsVoiceTypeConditionData
-    VoiceTypeOrList: 068ACA:Skyrim.esm
+    VoiceTypeOrList: 02CBBC:SexLab.esm
   ComparisonValue: 1

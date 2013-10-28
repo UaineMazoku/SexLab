@@ -18,6 +18,9 @@ VirtualMachineAdapter:
       Name: CreatureAnimations
       Object: 044A6C:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: Expressions
+      Object: 04C63D:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: LocationMarker
       Object: 02803E:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
