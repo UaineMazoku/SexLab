@@ -44,6 +44,15 @@ VirtualMachineAdapter:
         Object: 054227:SexLab.esm
         Alias: 1
       - MutagenObjectType: ScriptObjectProperty
+        Name: FadeToBlack
+        Object: 0F756D:Skyrim.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: FadeToBlackBack
+        Object: 0F756F:Skyrim.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: FadeToBlackHold
+        Object: 0F756E:Skyrim.esm
+      - MutagenObjectType: ScriptObjectProperty
         Name: Lib
         Object: 054227:SexLab.esm
       - MutagenObjectType: ScriptObjectProperty
@@ -63,7 +72,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 95
-QuestFormVersion: 0
+QuestFormVersion: 33
 Filter: SexLab\
 NextAliasID: 2
 Aliases:
