@@ -1,0 +1,13 @@
+FormKey: 059DB1:SexLab.esm
+EditorID: SexLabOrgasmEffect
+FormVersion: 43
+Type: Standard
+Category: 0172A1:Skyrim.esm
+SoundFiles:
+- Data\Sound\FX\ITM\PotionUse\ITM_PotionUse_01.wav
+- Data\Sound\FX\ITM\PotionUse\ITM_PotionUse_02.wav
+OutputModel: 0428B6:Skyrim.esm
+LoopAndRumble: {}
+PercentFrequencyShift: 35
+PercentFrequencyVariance: 10
+Priority: 128

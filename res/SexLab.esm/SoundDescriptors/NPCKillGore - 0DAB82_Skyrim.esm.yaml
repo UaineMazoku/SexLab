@@ -1,0 +1,15 @@
+FormKey: 0DAB82:Skyrim.esm
+EditorID: NPCKillGore
+FormVersion: 43
+Version2: 4
+Type: Standard
+Category: 0EA51F:Skyrim.esm
+AlternateSoundFor: 059DB1:SexLab.esm
+SoundFiles:
+- Data\Sound\FX\NPC\Kill\Gore\NPC_Kill_Gore_02.wav
+- Data\Sound\FX\NPC\Kill\Gore\NPC_Kill_Gore_01.wav
+OutputModel: 07E5DC:Skyrim.esm
+LoopAndRumble: {}
+PercentFrequencyVariance: 12
+Priority: 64
+StaticAttenuation: 3.08

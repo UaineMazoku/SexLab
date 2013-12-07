@@ -20,6 +20,7 @@ Flags:
 - NoMagnitude
 - NoArea
 - FXPersist
+- HideInUI
 - Painless
 Unknown1: 24941
 HitShader: 042F66:SexLab.esm

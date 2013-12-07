@@ -36,6 +36,9 @@ VirtualMachineAdapter:
       Name: mUseBed
       Object: 0181B2:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: OrgasmEffect
+      Object: 059DB2:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -221,7 +224,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 100
-QuestFormVersion: 35
+QuestFormVersion: 34
 Filter: SexLab\
 NextAliasID: 16
 Aliases:
