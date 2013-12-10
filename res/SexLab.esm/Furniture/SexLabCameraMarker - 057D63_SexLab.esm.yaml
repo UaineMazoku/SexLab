@@ -5,7 +5,7 @@ Name:
   TargetLanguage: English
   Value: SexLab Camera Marker
 Model:
-  File: Furniture\ChairInvisibleSingle.nif
+  File: Furniture\Common\CommonChair01.nif
   Data: 0x020000000000000000000000
 Keywords:
 - 0A56D7:Skyrim.esm
