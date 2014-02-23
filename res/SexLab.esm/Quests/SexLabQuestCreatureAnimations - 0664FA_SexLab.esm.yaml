@@ -1,9 +1,10 @@
 FormKey: 0664FA:SexLab.esm
-EditorID: SexLabQuestAnimationsCreature
+EditorID: SexLabQuestCreatureAnimations
 FormVersion: 43
 VirtualMachineAdapter:
   Scripts:
-  - Name: sslAnimationSlots
+  - Name: sslCreatureAnimationDefaults
+  - Name: sslCreatureAnimationSlots
   FileName: ''
   Aliases:
   - Property:
@@ -463,7 +464,7 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 50
+QuestFormVersion: 48
 Filter: SexLab\
 NextAliasID: 76
 Aliases:
