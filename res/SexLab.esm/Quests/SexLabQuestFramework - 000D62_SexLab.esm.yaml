@@ -11,7 +11,7 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
-  - Name: sslactorlibrary
+  - Name: sslActorLibrary
     Properties:
     - MutagenObjectType: ScriptObjectProperty
       Name: ActorTypeNPC

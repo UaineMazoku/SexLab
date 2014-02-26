@@ -15,8 +15,8 @@ VirtualMachineAdapter:
       Name: CalypsStrapon
       Object: 01A22A:SexLab.esm
     - MutagenObjectType: ScriptStringProperty
-      Name: ModName
-      Data: SexLab Framework
+      Name: modname
+      Data: SexLab
     - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
@@ -34,8 +34,9 @@ Name:
 Flags:
 - StartGameEnabled
 - 0x10
+- RunOnce
 Priority: 70
-QuestFormVersion: 48
+QuestFormVersion: 21
 Filter: SexLab\
 NextAliasID: 1
 Aliases:

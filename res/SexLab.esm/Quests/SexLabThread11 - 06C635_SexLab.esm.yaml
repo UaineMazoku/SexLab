@@ -1,5 +1,6 @@
-FormKey: 062452:SexLab.esm
-EditorID: SexLabThread01
+FormKey: 06C635:SexLab.esm
+VersionControl: 3609
+EditorID: SexLabThread11
 FormVersion: 43
 VirtualMachineAdapter:
   Scripts:
@@ -12,43 +13,43 @@ VirtualMachineAdapter:
   Aliases:
   - Property:
       Name: ''
-      Object: 062452:SexLab.esm
+      Object: 06C635:SexLab.esm
       Alias: 5
     Scripts:
     - Name: sslActorAlias
   - Property:
       Name: ''
-      Object: 062452:SexLab.esm
+      Object: 06C635:SexLab.esm
       Alias: 4
     Scripts:
     - Name: sslActorAlias
   - Property:
       Name: ''
-      Object: 062452:SexLab.esm
+      Object: 06C635:SexLab.esm
       Alias: 3
     Scripts:
     - Name: sslActorAlias
   - Property:
       Name: ''
-      Object: 062452:SexLab.esm
+      Object: 06C635:SexLab.esm
       Alias: 2
     Scripts:
     - Name: sslActorAlias
   - Property:
       Name: ''
-      Object: 062452:SexLab.esm
+      Object: 06C635:SexLab.esm
       Alias: 1
     Scripts:
     - Name: sslActorAlias
 Name:
   TargetLanguage: English
-  Value: SexLab Thread 01
+  Value: SexLab Thread 11
 Flags:
 - StartGameEnabled
 - 0x10
 - RunOnce
 Priority: 99
-QuestFormVersion: 48
+QuestFormVersion: 57
 Filter: SexLab\
 NextAliasID: 6
 Aliases:
