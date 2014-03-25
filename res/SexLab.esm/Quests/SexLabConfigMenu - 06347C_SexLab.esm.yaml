@@ -21,17 +21,11 @@ VirtualMachineAdapter:
       Name: modname
       Data: SexLab
     - MutagenObjectType: ScriptObjectProperty
-      Name: NoSKSE
-      Object: 06CB9C:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: OldSKSE
-      Object: 06CB9B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: OldSkyrim
-      Object: 06CB9D:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
   FileName: ''
   Aliases:
   - Property:
@@ -46,8 +40,8 @@ Name:
 Flags:
 - StartGameEnabled
 - 0x10
-Priority: 70
-QuestFormVersion: 31
+Priority: 80
+QuestFormVersion: 32
 Filter: SexLab\
 NextAliasID: 1
 Aliases:
