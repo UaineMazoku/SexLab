@@ -15,6 +15,21 @@ VirtualMachineAdapter:
       Name: CalypsStrapon
       Object: 01A22A:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: CheckFNIS
+      Object: 070C38:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CheckPapyrusUtil
+      Object: 070C3B:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CheckSKSE
+      Object: 070C39:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CheckSkyrim
+      Object: 070C3A:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CheckSkyUI
+      Object: 070C3C:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: CleanSystemFinish
       Object: 06CB9E:SexLab.esm
     - MutagenObjectType: ScriptStringProperty
@@ -42,7 +57,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 80
-QuestFormVersion: 31
+QuestFormVersion: 33
 Filter: SexLab\
 NextAliasID: 1
 Aliases:

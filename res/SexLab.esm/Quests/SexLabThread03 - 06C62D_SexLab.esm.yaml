@@ -4,10 +4,6 @@ FormVersion: 43
 VirtualMachineAdapter:
   Scripts:
   - Name: sslThreadController
-    Properties:
-    - MutagenObjectType: ScriptObjectProperty
-      Name: PlayerRef
-      Object: 000014:Skyrim.esm
   FileName: ''
   Aliases:
   - Property:
@@ -47,7 +43,7 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 99
-QuestFormVersion: 31
+QuestFormVersion: 0
 Filter: SexLab\
 NextAliasID: 6
 Aliases:

@@ -3,10 +3,7 @@ EditorID: SexLabCheckSkyrim
 FormVersion: 43
 Description:
   TargetLanguage: English
-  Value: >-
-    Outdated Skyrim install detected.
-
-    SexLab always requires the newest version of Skyrim in order to function. To continue using the mod; you must update your Skyrim install to the latest version.
+  Value: "Outdated or Skyrim install detected.\r\nSexLab currently requires Skyrim v1.9.32 or newer in order to function. To continue using this mod; you must update your install and reload your game. "
 Name:
   TargetLanguage: English
   Value: 'SexLab Dependency: Skyrim 1.9.32'

@@ -9,21 +9,6 @@ VirtualMachineAdapter:
       Name: AnimatingFaction
       Object: 00E50F:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: CheckFNIS
-      Object: 070C38:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: CheckPapyrusUtil
-      Object: 070C3B:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: CheckSKSE
-      Object: 070C39:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: CheckSkyrim
-      Object: 070C3A:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: CheckSkyUI
-      Object: 070C3C:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
   - Name: sslActorLibrary
@@ -91,6 +76,13 @@ VirtualMachineAdapter:
       Name: PlayerRef
       Object: 000014:Skyrim.esm
   - Name: sslSystemConfig
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SexLab
+      Object: 000D62:SexLab.esm
   - Name: sslThreadLibrary
     Properties:
     - MutagenObjectType: ScriptObjectProperty
@@ -144,6 +136,6 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 31
+QuestFormVersion: 33
 Filter: SexLab\
 NextAliasID: 1
