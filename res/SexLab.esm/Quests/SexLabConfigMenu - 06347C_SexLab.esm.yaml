@@ -6,9 +6,6 @@ VirtualMachineAdapter:
   - Name: sslConfigMenu
     Properties:
     - MutagenObjectType: ScriptObjectProperty
-      Name: CleanSystemFinish
-      Object: 06CB9E:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: Config
       Object: 000D62:SexLab.esm
     - MutagenObjectType: ScriptStringProperty
@@ -36,7 +33,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 80
-QuestFormVersion: 31
+QuestFormVersion: 30
 Filter: SexLab\
 NextAliasID: 1
 Aliases:
