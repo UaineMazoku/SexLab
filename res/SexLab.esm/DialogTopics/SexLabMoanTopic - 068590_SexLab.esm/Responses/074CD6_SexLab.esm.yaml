@@ -15,7 +15,7 @@ Responses:
   Edits: ''
 Conditions:
 - MutagenObjectType: ConditionFloat
-  Unknown2: 8207
+  Unknown2: 8367
   Data:
     MutagenObjectType: GetIsVoiceTypeConditionData
     VoiceTypeOrList: 068ACA:Skyrim.esm

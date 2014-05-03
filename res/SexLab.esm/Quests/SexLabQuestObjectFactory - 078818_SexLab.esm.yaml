@@ -1,1649 +1,1320 @@
-FormKey: 0664FB:SexLab.esm
-EditorID: SexLabQuestRegistry
+FormKey: 078818:SexLab.esm
+EditorID: SexLabQuestObjectFactory
 FormVersion: 43
 VirtualMachineAdapter:
   Scripts:
-  - Name: sslCreatureAnimationDefaults
-  - Name: sslCreatureAnimationSlots
-  - Name: sslExpressionDefaults
-  - Name: sslExpressionSlots
-  - Name: sslVoiceDefaults
-  - Name: sslVoiceSlots
+  - Name: sslObjectFactory
   FileName: ''
   Aliases:
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 377
+      Object: 078818:SexLab.esm
+      Alias: 190
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 376
+      Object: 078818:SexLab.esm
+      Alias: 189
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 375
+      Object: 078818:SexLab.esm
+      Alias: 188
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 374
+      Object: 078818:SexLab.esm
+      Alias: 187
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 373
+      Object: 078818:SexLab.esm
+      Alias: 186
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 372
+      Object: 078818:SexLab.esm
+      Alias: 185
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 371
+      Object: 078818:SexLab.esm
+      Alias: 184
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 370
+      Object: 078818:SexLab.esm
+      Alias: 183
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 369
+      Object: 078818:SexLab.esm
+      Alias: 182
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 368
+      Object: 078818:SexLab.esm
+      Alias: 181
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 367
+      Object: 078818:SexLab.esm
+      Alias: 180
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 366
+      Object: 078818:SexLab.esm
+      Alias: 179
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 365
+      Object: 078818:SexLab.esm
+      Alias: 178
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 364
+      Object: 078818:SexLab.esm
+      Alias: 177
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 363
+      Object: 078818:SexLab.esm
+      Alias: 176
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 362
+      Object: 078818:SexLab.esm
+      Alias: 175
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 361
+      Object: 078818:SexLab.esm
+      Alias: 174
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 360
+      Object: 078818:SexLab.esm
+      Alias: 173
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 359
+      Object: 078818:SexLab.esm
+      Alias: 172
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 358
+      Object: 078818:SexLab.esm
+      Alias: 171
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 357
+      Object: 078818:SexLab.esm
+      Alias: 170
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 356
+      Object: 078818:SexLab.esm
+      Alias: 169
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 355
+      Object: 078818:SexLab.esm
+      Alias: 168
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 354
+      Object: 078818:SexLab.esm
+      Alias: 167
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 353
+      Object: 078818:SexLab.esm
+      Alias: 166
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 352
+      Object: 078818:SexLab.esm
+      Alias: 165
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 351
+      Object: 078818:SexLab.esm
+      Alias: 164
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 350
+      Object: 078818:SexLab.esm
+      Alias: 163
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 349
+      Object: 078818:SexLab.esm
+      Alias: 162
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 348
+      Object: 078818:SexLab.esm
+      Alias: 161
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 347
+      Object: 078818:SexLab.esm
+      Alias: 160
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 346
+      Object: 078818:SexLab.esm
+      Alias: 159
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 345
+      Object: 078818:SexLab.esm
+      Alias: 158
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 344
+      Object: 078818:SexLab.esm
+      Alias: 157
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 343
+      Object: 078818:SexLab.esm
+      Alias: 156
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 342
+      Object: 078818:SexLab.esm
+      Alias: 155
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 341
+      Object: 078818:SexLab.esm
+      Alias: 154
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 340
+      Object: 078818:SexLab.esm
+      Alias: 153
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 339
+      Object: 078818:SexLab.esm
+      Alias: 152
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 338
+      Object: 078818:SexLab.esm
+      Alias: 151
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 337
+      Object: 078818:SexLab.esm
+      Alias: 150
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 336
+      Object: 078818:SexLab.esm
+      Alias: 149
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 335
+      Object: 078818:SexLab.esm
+      Alias: 148
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 334
+      Object: 078818:SexLab.esm
+      Alias: 147
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 333
+      Object: 078818:SexLab.esm
+      Alias: 146
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 332
+      Object: 078818:SexLab.esm
+      Alias: 145
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 331
+      Object: 078818:SexLab.esm
+      Alias: 144
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 330
+      Object: 078818:SexLab.esm
+      Alias: 143
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 329
+      Object: 078818:SexLab.esm
+      Alias: 142
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 328
+      Object: 078818:SexLab.esm
+      Alias: 141
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 327
+      Object: 078818:SexLab.esm
+      Alias: 140
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 326
+      Object: 078818:SexLab.esm
+      Alias: 139
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 325
+      Object: 078818:SexLab.esm
+      Alias: 138
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 324
+      Object: 078818:SexLab.esm
+      Alias: 137
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 323
+      Object: 078818:SexLab.esm
+      Alias: 136
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 322
+      Object: 078818:SexLab.esm
+      Alias: 135
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 321
+      Object: 078818:SexLab.esm
+      Alias: 134
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 320
+      Object: 078818:SexLab.esm
+      Alias: 133
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 319
+      Object: 078818:SexLab.esm
+      Alias: 132
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 318
+      Object: 078818:SexLab.esm
+      Alias: 131
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 317
+      Object: 078818:SexLab.esm
+      Alias: 130
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 316
+      Object: 078818:SexLab.esm
+      Alias: 129
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 315
+      Object: 078818:SexLab.esm
+      Alias: 128
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 314
+      Object: 078818:SexLab.esm
+      Alias: 127
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 313
+      Object: 078818:SexLab.esm
+      Alias: 126
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 312
+      Object: 078818:SexLab.esm
+      Alias: 125
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 311
+      Object: 078818:SexLab.esm
+      Alias: 124
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 310
+      Object: 078818:SexLab.esm
+      Alias: 123
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 309
+      Object: 078818:SexLab.esm
+      Alias: 122
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 308
+      Object: 078818:SexLab.esm
+      Alias: 121
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 307
+      Object: 078818:SexLab.esm
+      Alias: 120
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 306
+      Object: 078818:SexLab.esm
+      Alias: 119
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 305
+      Object: 078818:SexLab.esm
+      Alias: 118
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 304
+      Object: 078818:SexLab.esm
+      Alias: 117
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 303
+      Object: 078818:SexLab.esm
+      Alias: 116
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 302
+      Object: 078818:SexLab.esm
+      Alias: 115
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 301
+      Object: 078818:SexLab.esm
+      Alias: 114
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 300
+      Object: 078818:SexLab.esm
+      Alias: 113
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 299
+      Object: 078818:SexLab.esm
+      Alias: 112
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 298
+      Object: 078818:SexLab.esm
+      Alias: 111
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 297
+      Object: 078818:SexLab.esm
+      Alias: 110
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 296
+      Object: 078818:SexLab.esm
+      Alias: 109
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 295
+      Object: 078818:SexLab.esm
+      Alias: 108
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 294
+      Object: 078818:SexLab.esm
+      Alias: 107
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 293
+      Object: 078818:SexLab.esm
+      Alias: 106
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 292
+      Object: 078818:SexLab.esm
+      Alias: 105
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 291
+      Object: 078818:SexLab.esm
+      Alias: 104
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 290
+      Object: 078818:SexLab.esm
+      Alias: 103
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 289
+      Object: 078818:SexLab.esm
+      Alias: 102
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 288
+      Object: 078818:SexLab.esm
+      Alias: 101
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 287
+      Object: 078818:SexLab.esm
+      Alias: 100
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 286
+      Object: 078818:SexLab.esm
+      Alias: 99
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 284
+      Object: 078818:SexLab.esm
+      Alias: 98
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 283
+      Object: 078818:SexLab.esm
+      Alias: 97
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 282
+      Object: 078818:SexLab.esm
+      Alias: 96
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 281
+      Object: 078818:SexLab.esm
+      Alias: 95
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 280
+      Object: 078818:SexLab.esm
+      Alias: 94
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 279
+      Object: 078818:SexLab.esm
+      Alias: 93
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 278
+      Object: 078818:SexLab.esm
+      Alias: 92
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
   - Property:
       Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 277
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 276
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 275
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 274
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 273
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 272
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 271
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 270
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 269
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 268
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 267
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 266
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 265
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 264
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 263
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 262
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 261
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 260
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 259
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 258
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 257
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 256
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 255
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 254
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 253
-    Scripts:
-    - Name: sslBaseVoice
-    - Name: sslBaseExpression
-    - Name: sslBaseAnimation
-  - Property:
-      Name: ''
-      Object: 0664FB:SexLab.esm
-      Alias: 252
+      Object: 078818:SexLab.esm
+      Alias: 91
     Scripts:
     - Name: sslBaseVoice
     - Name: sslBaseExpression
     - Name: sslBaseAnimation
 Name:
   TargetLanguage: English
-  Value: SexLab Secondary Registry
+  Value: SexLab Ephemeral Object Factory
 Flags:
 - StartGameEnabled
 - 0x10
-Priority: 90
+- RunOnce
+Priority: 80
 QuestFormVersion: 23
 Filter: SexLab\
-NextAliasID: 378
+NextAliasID: 191
 Aliases:
-- ID: 377
-  Name: RegistrySlot124
+- ID: 190
+  Name: ObjectSlot099
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 376
-  Name: RegistrySlot123
+- ID: 189
+  Name: ObjectSlot098
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 375
-  Name: RegistrySlot122
+- ID: 188
+  Name: ObjectSlot097
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 374
-  Name: RegistrySlot121
+- ID: 187
+  Name: ObjectSlot096
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 373
-  Name: RegistrySlot120
+- ID: 186
+  Name: ObjectSlot095
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 372
-  Name: RegistrySlot119
+- ID: 185
+  Name: ObjectSlot094
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 371
-  Name: RegistrySlot118
+- ID: 184
+  Name: ObjectSlot093
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 370
-  Name: RegistrySlot117
+- ID: 183
+  Name: ObjectSlot092
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 369
-  Name: RegistrySlot116
+- ID: 182
+  Name: ObjectSlot091
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 368
-  Name: RegistrySlot115
+- ID: 181
+  Name: ObjectSlot090
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 367
-  Name: RegistrySlot114
+- ID: 180
+  Name: ObjectSlot089
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 366
-  Name: RegistrySlot113
+- ID: 179
+  Name: ObjectSlot088
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 365
-  Name: RegistrySlot112
+- ID: 178
+  Name: ObjectSlot087
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 364
-  Name: RegistrySlot111
+- ID: 177
+  Name: ObjectSlot086
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 363
-  Name: RegistrySlot110
+- ID: 176
+  Name: ObjectSlot085
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 362
-  Name: RegistrySlot109
+- ID: 175
+  Name: ObjectSlot084
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 361
-  Name: RegistrySlot108
+- ID: 174
+  Name: ObjectSlot083
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 360
-  Name: RegistrySlot107
+- ID: 173
+  Name: ObjectSlot082
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 359
-  Name: RegistrySlot106
+- ID: 172
+  Name: ObjectSlot081
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 358
-  Name: RegistrySlot105
+- ID: 171
+  Name: ObjectSlot080
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 357
-  Name: RegistrySlot104
+- ID: 170
+  Name: ObjectSlot079
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 356
-  Name: RegistrySlot103
+- ID: 169
+  Name: ObjectSlot078
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 355
-  Name: RegistrySlot102
+- ID: 168
+  Name: ObjectSlot077
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 354
-  Name: RegistrySlot101
+- ID: 167
+  Name: ObjectSlot076
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 353
-  Name: RegistrySlot100
+- ID: 166
+  Name: ObjectSlot075
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 352
-  Name: RegistrySlot099
+- ID: 165
+  Name: ObjectSlot074
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 351
-  Name: RegistrySlot098
+- ID: 164
+  Name: ObjectSlot073
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 350
-  Name: RegistrySlot097
+- ID: 163
+  Name: ObjectSlot072
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 349
-  Name: RegistrySlot096
+- ID: 162
+  Name: ObjectSlot071
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 348
-  Name: RegistrySlot095
+- ID: 161
+  Name: ObjectSlot070
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 347
-  Name: RegistrySlot094
+- ID: 160
+  Name: ObjectSlot069
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 346
-  Name: RegistrySlot093
+- ID: 159
+  Name: ObjectSlot068
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 345
-  Name: RegistrySlot092
+- ID: 158
+  Name: ObjectSlot067
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 344
-  Name: RegistrySlot091
+- ID: 157
+  Name: ObjectSlot066
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 343
-  Name: RegistrySlot090
+- ID: 156
+  Name: ObjectSlot065
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 342
-  Name: RegistrySlot089
+- ID: 155
+  Name: ObjectSlot064
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 341
-  Name: RegistrySlot088
+- ID: 154
+  Name: ObjectSlot063
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 340
-  Name: RegistrySlot087
+- ID: 153
+  Name: ObjectSlot062
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 339
-  Name: RegistrySlot086
+- ID: 152
+  Name: ObjectSlot061
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 338
-  Name: RegistrySlot085
+- ID: 151
+  Name: ObjectSlot060
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 337
-  Name: RegistrySlot084
+- ID: 150
+  Name: ObjectSlot059
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 336
-  Name: RegistrySlot083
+- ID: 149
+  Name: ObjectSlot058
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 335
-  Name: RegistrySlot082
+- ID: 148
+  Name: ObjectSlot057
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 334
-  Name: RegistrySlot081
+- ID: 147
+  Name: ObjectSlot056
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 333
-  Name: RegistrySlot080
+- ID: 146
+  Name: ObjectSlot055
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 332
-  Name: RegistrySlot079
+- ID: 145
+  Name: ObjectSlot054
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 331
-  Name: RegistrySlot078
+- ID: 144
+  Name: ObjectSlot053
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 330
-  Name: RegistrySlot077
+- ID: 143
+  Name: ObjectSlot052
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 329
-  Name: RegistrySlot076
+- ID: 142
+  Name: ObjectSlot051
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 328
-  Name: RegistrySlot075
+- ID: 141
+  Name: ObjectSlot050
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 327
-  Name: RegistrySlot074
+- ID: 140
+  Name: ObjectSlot049
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 326
-  Name: RegistrySlot073
+- ID: 139
+  Name: ObjectSlot048
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 325
-  Name: RegistrySlot072
+- ID: 138
+  Name: ObjectSlot047
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 324
-  Name: RegistrySlot071
+- ID: 137
+  Name: ObjectSlot046
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 323
-  Name: RegistrySlot070
+- ID: 136
+  Name: ObjectSlot045
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 322
-  Name: RegistrySlot069
+- ID: 135
+  Name: ObjectSlot044
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 321
-  Name: RegistrySlot068
+- ID: 134
+  Name: ObjectSlot043
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 320
-  Name: RegistrySlot067
+- ID: 133
+  Name: ObjectSlot042
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 319
-  Name: RegistrySlot066
+- ID: 132
+  Name: ObjectSlot041
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 318
-  Name: RegistrySlot065
+- ID: 131
+  Name: ObjectSlot040
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 317
-  Name: RegistrySlot064
+- ID: 130
+  Name: ObjectSlot039
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 316
-  Name: RegistrySlot063
+- ID: 129
+  Name: ObjectSlot038
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 315
-  Name: RegistrySlot062
+- ID: 128
+  Name: ObjectSlot037
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 314
-  Name: RegistrySlot061
+- ID: 127
+  Name: ObjectSlot036
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 313
-  Name: RegistrySlot060
+- ID: 126
+  Name: ObjectSlot035
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 312
-  Name: RegistrySlot059
+- ID: 125
+  Name: ObjectSlot034
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 311
-  Name: RegistrySlot058
+- ID: 124
+  Name: ObjectSlot033
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 310
-  Name: RegistrySlot057
+- ID: 123
+  Name: ObjectSlot032
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 309
-  Name: RegistrySlot056
+- ID: 122
+  Name: ObjectSlot031
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 308
-  Name: RegistrySlot055
+- ID: 121
+  Name: ObjectSlot030
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 307
-  Name: RegistrySlot054
+- ID: 120
+  Name: ObjectSlot029
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 306
-  Name: RegistrySlot053
+- ID: 119
+  Name: ObjectSlot028
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 305
-  Name: RegistrySlot052
+- ID: 118
+  Name: ObjectSlot027
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 304
-  Name: RegistrySlot051
+- ID: 117
+  Name: ObjectSlot026
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 303
-  Name: RegistrySlot050
+- ID: 116
+  Name: ObjectSlot025
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 302
-  Name: RegistrySlot049
+- ID: 115
+  Name: ObjectSlot024
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 301
-  Name: RegistrySlot048
+- ID: 114
+  Name: ObjectSlot023
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 300
-  Name: RegistrySlot047
+- ID: 113
+  Name: ObjectSlot022
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 299
-  Name: RegistrySlot046
+- ID: 112
+  Name: ObjectSlot021
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 298
-  Name: RegistrySlot045
+- ID: 111
+  Name: ObjectSlot020
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 297
-  Name: RegistrySlot044
+- ID: 110
+  Name: ObjectSlot019
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 296
-  Name: RegistrySlot043
+- ID: 109
+  Name: ObjectSlot018
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 295
-  Name: RegistrySlot042
+- ID: 108
+  Name: ObjectSlot017
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 294
-  Name: RegistrySlot041
+- ID: 107
+  Name: ObjectSlot016
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 293
-  Name: RegistrySlot040
+- ID: 106
+  Name: ObjectSlot015
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 292
-  Name: RegistrySlot039
+- ID: 105
+  Name: ObjectSlot014
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 291
-  Name: RegistrySlot038
+- ID: 104
+  Name: ObjectSlot013
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 290
-  Name: RegistrySlot037
+- ID: 103
+  Name: ObjectSlot012
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 289
-  Name: RegistrySlot036
+- ID: 102
+  Name: ObjectSlot011
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 288
-  Name: RegistrySlot035
+- ID: 101
+  Name: ObjectSlot010
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 287
-  Name: RegistrySlot034
+- ID: 100
+  Name: ObjectSlot009
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 286
-  Name: RegistrySlot033
+- ID: 99
+  Name: ObjectSlot008
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 284
-  Name: RegistrySlot032
+- ID: 98
+  Name: ObjectSlot007
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 283
-  Name: RegistrySlot031
+- ID: 97
+  Name: ObjectSlot006
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 282
-  Name: RegistrySlot030
+- ID: 96
+  Name: ObjectSlot005
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 281
-  Name: RegistrySlot029
+- ID: 95
+  Name: ObjectSlot004
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 280
-  Name: RegistrySlot028
+- ID: 94
+  Name: ObjectSlot003
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 279
-  Name: RegistrySlot027
+- ID: 93
+  Name: ObjectSlot002
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 278
-  Name: RegistrySlot026
+- ID: 92
+  Name: ObjectSlot001
   Flags:
   - Optional
   VoiceTypes: Null
-- ID: 277
-  Name: RegistrySlot025
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 276
-  Name: RegistrySlot024
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 275
-  Name: RegistrySlot023
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 274
-  Name: RegistrySlot022
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 273
-  Name: RegistrySlot021
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 272
-  Name: RegistrySlot020
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 271
-  Name: RegistrySlot019
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 270
-  Name: RegistrySlot018
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 269
-  Name: RegistrySlot017
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 268
-  Name: RegistrySlot016
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 267
-  Name: RegistrySlot015
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 266
-  Name: RegistrySlot014
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 265
-  Name: RegistrySlot013
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 264
-  Name: RegistrySlot012
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 263
-  Name: RegistrySlot011
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 262
-  Name: RegistrySlot010
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 261
-  Name: RegistrySlot009
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 260
-  Name: RegistrySlot008
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 259
-  Name: RegistrySlot007
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 258
-  Name: RegistrySlot006
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 257
-  Name: RegistrySlot005
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 256
-  Name: RegistrySlot004
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 255
-  Name: RegistrySlot003
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 254
-  Name: RegistrySlot002
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 253
-  Name: RegistrySlot001
-  Flags:
-  - Optional
-  VoiceTypes: Null
-- ID: 252
-  Name: RegistrySlot000
+- ID: 91
+  Name: ObjectSlot000
   Flags:
   - Optional
   VoiceTypes: Null
