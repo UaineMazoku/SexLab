@@ -124,6 +124,9 @@ VirtualMachineAdapter:
       Name: SexLabVoiceM
       Object: 02CBBD:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: SexLabVoices
+      Object: 02CBBC:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: SexMixedFX
       Object: 065A33:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -135,9 +138,6 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: UseBed
       Object: 065F97:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: VoicesPlayer
-      Object: 068ACA:Skyrim.esm
   - Name: sslThreadLibrary
   - Name: sslThreadSlots
   Versioning:
@@ -151,6 +151,6 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 0
+QuestFormVersion: 47
 Filter: SexLab\
 NextAliasID: 2
