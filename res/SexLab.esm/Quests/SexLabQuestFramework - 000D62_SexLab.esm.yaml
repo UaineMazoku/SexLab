@@ -46,6 +46,9 @@ VirtualMachineAdapter:
       Name: CheckPapyrusUtil
       Object: 070C3B:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: CheckSexLabUtil
+      Object: 07D380:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: CheckSKSE
       Object: 070C39:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -154,6 +157,6 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 33
+QuestFormVersion: 29
 Filter: SexLab\
 NextAliasID: 2
