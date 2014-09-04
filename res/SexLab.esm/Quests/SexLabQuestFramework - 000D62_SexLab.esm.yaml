@@ -91,6 +91,21 @@ VirtualMachineAdapter:
       Name: CumVaginalSpell
       Object: 041478:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: DebugVar1
+      Object: 07DE45:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DebugVar2
+      Object: 07DE46:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DebugVar3
+      Object: 07DE47:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DebugVar4
+      Object: 07DE48:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DebugVar5
+      Object: 07DE49:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: DoNothing
       Object: 00E50E:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -157,6 +172,6 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 29
+QuestFormVersion: 34
 Filter: SexLab\
 NextAliasID: 2
