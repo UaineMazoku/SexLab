@@ -21,9 +21,6 @@ VirtualMachineAdapter:
       Name: ExpressionSlots
       Object: 0664FB:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: Factory
-      Object: 078818:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: PlayerRef
       Object: 000014:Skyrim.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -848,7 +845,7 @@ Flags:
 - 0x10
 - RunOnce
 Priority: 80
-QuestFormVersion: 35
+QuestFormVersion: 36
 Filter: SexLab\
 NextAliasID: 191
 Aliases:

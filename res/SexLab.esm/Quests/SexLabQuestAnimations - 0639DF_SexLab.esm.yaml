@@ -5,6 +5,19 @@ VirtualMachineAdapter:
   Scripts:
   - Name: sslAnimationDefaults
   - Name: sslAnimationSlots
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ActorLib
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Config
+      Object: 000D62:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ThreadLib
+      Object: 000D62:SexLab.esm
   FileName: ''
   Aliases:
   - Property:
@@ -764,7 +777,7 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 90
-QuestFormVersion: 34
+QuestFormVersion: 36
 Filter: SexLab\
 NextAliasID: 126
 Aliases:
@@ -807,6 +820,7 @@ Aliases:
   Name: BaseAnimation119
   Flags:
   - Optional
+  - QuestObject
   - AllowReuseInQuest
   - StoresText
   VoiceTypes: Null
