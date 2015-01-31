@@ -25,10 +25,10 @@ UnequipSound: 03D882:Skyrim.esm
 BasicStats: {}
 Data:
   AnimationType: Bow
-  Unused: 0x3E2E00
+  Unused: 0x3F1C02
   Speed: 1
   Reach: 1
-  Unused2: -31380
+  Unused2: 26837
   SightFOV: 0.4
   NumProjectiles: 1
   AnimationAttackMult: 1
