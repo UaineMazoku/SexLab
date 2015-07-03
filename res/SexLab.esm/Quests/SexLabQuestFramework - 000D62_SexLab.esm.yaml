@@ -132,6 +132,29 @@ VirtualMachineAdapter:
       Name: AudioVoice
       Object: 061429:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: BardBystander1
+      Object: 1062A7:Skyrim.esm
+      Alias: 343
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BardBystander2
+      Object: 1062A7:Skyrim.esm
+      Alias: 341
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BardBystander3
+      Object: 1062A7:Skyrim.esm
+      Alias: 342
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BardBystander4
+      Object: 1062A7:Skyrim.esm
+      Alias: 344
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BardBystander5
+      Object: 1062A7:Skyrim.esm
+      Alias: 345
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BardExcludeFaction
+      Object: 10FCB4:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: BaseMarker
       Object: 045A93:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -373,7 +396,7 @@ Flags:
 - StartGameEnabled
 - 0x10
 Priority: 100
-QuestFormVersion: 40
+QuestFormVersion: 35
 Filter: SexLab\
 NextAliasID: 4
 Aliases:
