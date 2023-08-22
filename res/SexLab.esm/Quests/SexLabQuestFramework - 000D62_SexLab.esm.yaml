@@ -220,6 +220,9 @@ VirtualMachineAdapter:
       Name: BedsList
       Object: 0181B1:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: BlurAndBackImod
+      Object: 0B0438:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: CalypsStrapon
       Object: 01A22A:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
@@ -252,6 +255,9 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: ExpressionSlots
       Object: 0664FB:SexLab.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FadeToBlackAndBackImod
+      Object: 0AD56F:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: GenderFaction
       Object: 043A43:SexLab.esm
