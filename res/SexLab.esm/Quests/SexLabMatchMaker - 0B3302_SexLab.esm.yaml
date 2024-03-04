@@ -8,6 +8,9 @@ VirtualMachineAdapter:
       Name: config
       Object: 000D62:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Skyrim.esm
+    - MutagenObjectType: ScriptObjectProperty
       Name: SexLab
       Object: 000D62:SexLab.esm
   Versioning:
