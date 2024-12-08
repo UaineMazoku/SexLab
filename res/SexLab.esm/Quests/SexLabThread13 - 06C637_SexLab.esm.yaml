@@ -23,21 +23,12 @@ VirtualMachineAdapter:
         Object: 06C637:SexLab.esm
         Alias: 5
     - MutagenObjectType: ScriptObjectProperty
-      Name: ActorLib
-      Object: 000D62:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: AnimSlots
-      Object: 0639DF:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
       Name: CenterAlias
       Object: 06C637:SexLab.esm
       Alias: 6
     - MutagenObjectType: ScriptObjectProperty
       Name: config
       Object: 000D62:SexLab.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: CreatureSlots
-      Object: 0664FB:SexLab.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: DoNothingPackage
       Object: 00E50E:SexLab.esm
@@ -56,9 +47,6 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: SpouseAssocation
       Object: 0142CA:Skyrim.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: ThreadLib
-      Object: 000D62:SexLab.esm
   FileName: ''
   Aliases:
   - Property:
