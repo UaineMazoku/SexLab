@@ -110,7 +110,7 @@ Aliases:
   PackageData:
   - 088A8F:SexLab.esm
   - 00E50E:SexLab.esm
-  VoiceTypes: 02CBBC:SexLab.esm
+  VoiceTypes: Null
 - ID: 4
   Name: ActorAlias003
   Flags:
@@ -124,7 +124,7 @@ Aliases:
   PackageData:
   - 088A8F:SexLab.esm
   - 00E50E:SexLab.esm
-  VoiceTypes: 02CBBC:SexLab.esm
+  VoiceTypes: Null
 - ID: 3
   Name: ActorAlias002
   Flags:
@@ -138,7 +138,7 @@ Aliases:
   PackageData:
   - 088A8F:SexLab.esm
   - 00E50E:SexLab.esm
-  VoiceTypes: 02CBBC:SexLab.esm
+  VoiceTypes: Null
 - ID: 2
   Name: ActorAlias001
   Flags:
@@ -152,7 +152,7 @@ Aliases:
   PackageData:
   - 088A8F:SexLab.esm
   - 00E50E:SexLab.esm
-  VoiceTypes: 02CBBC:SexLab.esm
+  VoiceTypes: Null
 - ID: 1
   Name: ActorAlias000
   Flags:
@@ -166,7 +166,7 @@ Aliases:
   PackageData:
   - 088A8F:SexLab.esm
   - 00E50E:SexLab.esm
-  VoiceTypes: 02CBBC:SexLab.esm
+  VoiceTypes: Null
 - ID: 6
   Name: CenterAlias
   Flags:
