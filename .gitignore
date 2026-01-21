@@ -25,3 +25,9 @@ SKSE/Plugins/SexLabUtil.pdb
 1597
 14vr
 *.swf
+
+.env*
+dist/SexLab.esm
+build/
+.xmake/
+SexLab.ppj
